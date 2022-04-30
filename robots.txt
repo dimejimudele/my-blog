@@ -1,1 +1,1 @@
-Sitemap: https://dimejimudele.github.io/my-blog/sitemap.xml
+Sitemap: https://dimejimudele.github.io/sitemap.xml
